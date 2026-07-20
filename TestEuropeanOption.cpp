@@ -5,8 +5,6 @@
 //  Test program for the exact solutions of European options.
 //  Check answers with Haug 2007 book on option pricing.
 //
-//  Created by Changheng Chen on 2/11/17.
-//  Copyright © 2017 Changheng Chen. All rights reserved.
 //
 
 #include "EuropeanOption.hpp"
