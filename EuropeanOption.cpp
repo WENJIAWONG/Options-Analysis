@@ -2,8 +2,6 @@
 //  EuropeanOption.cpp
 //  PlainOption
 //
-//  Created by Changheng Chen on 2/11/17.
-//  Copyright © 2017 Changheng Chen. All rights reserved.
 //
 
 #include "EuropeanOption.hpp"
