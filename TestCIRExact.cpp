@@ -1,11 +1,8 @@
-//
 //  TestCIRExact.cpp
 //  CIR
 //
 //  Defining parameters of CIR zcb
 //
-//  Created by Changheng Chen on 2/12/17.
-//  Copyright © 2017 Changheng Chen. All rights reserved.
 //
 
 #include "CIR.hpp"
