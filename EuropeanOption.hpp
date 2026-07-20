@@ -1,3 +1,4 @@
+#pragma once
 //
 //  EuropeanOption.hpp
 //  PlainOption
@@ -5,8 +6,6 @@
 //  Class that represents solutions to European options. This is
 //  an implementation using basic C++ syntax only.
 //
-//  Created by Changheng Chen on 2/11/17.
-//  Copyright © 2017 Changheng Chen. All rights reserved.
 //
 
 #ifndef EuropeanOption_hpp
