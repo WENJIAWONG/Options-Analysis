@@ -1,4 +1,3 @@
-//
 //  TestEuropeanOption.cpp
 //  PlainOption
 //
