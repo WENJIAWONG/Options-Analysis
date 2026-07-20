@@ -4,8 +4,6 @@
 //
 //  Perpetual American option, Haug 2007 page 109-110.
 //
-//  Created by Changheng Chen on 2/11/17.
-//  Copyright © 2017 Changheng Chen. All rights reserved.
 //
 
 #include <cmath>
