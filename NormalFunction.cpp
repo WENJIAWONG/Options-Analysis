@@ -4,8 +4,6 @@
 //
 //  Some exact formulae.
 //
-//  Created by Changheng Chen on 2/12/17.
-//  Copyright © 2017 Changheng Chen. All rights reserved.
 //
 
 #include <cmath>
