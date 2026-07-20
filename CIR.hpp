@@ -1,12 +1,10 @@
-//
+#pragma once
 //  CIR.h
 //  CIR
 //
 //  Defining parameters of CIR zcb and corresponding
 //  pricing functions.
 //
-//  Created by Changheng Chen on 2/12/17.
-//  Copyright © 2017 Changheng Chen. All rights reserved.
 //
 
 #ifndef CIR_hpp
